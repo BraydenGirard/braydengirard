@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working full time as the Digital Director at [Arctic Leaf](https://www.arcticleaf.io/). I'm an Entrepreneur & Full-stack developer who likes to keep busy building cool stuff.
+I'm currently working full time as the Digital Director at [Arctic Leaf](https://github.com/arcticleaf). I'm an Entrepreneur & Full-stack developer who likes to keep busy building cool stuff.
 
 I have a Masters in Engineering, a BA in Comp Sci., and a minor in Business. Over the past 8 years I have worked as a developer, business owner, college educator, and tech lead. My education and experience has given me the competative advantage I bring to the table every day when working in tech! When I'm not working or building my next big idea, you will probably catch me doing one of the following:
 
