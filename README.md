@@ -15,6 +15,6 @@ I have a Masters in Engineering, a BA in Comp Sci., and a minor in Business. Ove
 #### Incase you care:
 - 👯 I’m looking to collaborate on building Web3 projects!
 - 💬 Ask me about solving web / app related tech problems
-- 📫 How to reach me: @braydengirard
+- 📫 How to reach me: [@braydengirard](https://twitter.com/braydengirard)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I'm part owner in a small Maple Syrup production 🍁 🇨🇦
