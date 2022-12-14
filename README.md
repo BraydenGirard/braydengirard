@@ -10,7 +10,7 @@ I have a Masters in Engineering, a BA in Comp Sci., and a minor in Business. Ove
 - 🏒 Playing hockey
 - 🕹 Gaming
 - 🚴 Cycling
-- 🚀 Falling down the crypto/nft rabbit hole
+- 🚀 Falling down one of many rabbit holes (coffee, blockchain, mechanical keyboards, content creation)
 
 #### Incase you care:
 - 👯 I’m looking to collaborate on building Web3 projects!
