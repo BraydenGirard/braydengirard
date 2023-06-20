@@ -13,7 +13,6 @@ I have a Masters in Engineering, a BA in Comp Sci., and a minor in Business. Ove
 - 🚀 Falling down one of many rabbit holes (coffee, blockchain, mechanical keyboards, content creation)
 
 #### Incase you care:
-- 👯 I’m looking to collaborate on building Web3 projects!
 - 💬 Ask me about solving web / app related tech problems
 - 📫 How to reach me: [@braydengirard](https://twitter.com/braydengirard)
 - 😄 Pronouns: He / Him
